@@ -1,26 +1,33 @@
-## Hi there 👋
+### Hi, I'm Antonio Alberto 👋
 
-<a href="https://github.com/toninhobaianor">
-    <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toninhobaianor&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toninhobaianor&show_icons=true&theme=dracula" height="180em"/>
-  </a>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<div>
+Systems Engineering student at **UFMG** (expected graduation: 01/2028), focused on **Backend Development**, **Python Automation**, and **Applied Artificial Intelligence / LLMs**.
 
-Here are some ideas to get you started:
+- 🔭 Currently working as an **Engineering Intern at Mestria**, building Python automation tools for test jigs and C/C++ firmware for embedded systems.
+- 💻 Experienced in **REST APIs** and relational databases (**Node.js, TypeScript, Prisma, MySQL, Docker**) from my role as a Backend Developer at **ijunior**.
+- 🧠 Building solutions integrating **LLMs, Function Calling, and Machine Learning** with real-world APIs.
+- 📫 Reach me at **AntonioAlbertoEng@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/antonio-alberto-oliveira-022b7228b).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+#### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=toninhobaianor&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toninhobaianor&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+</p>
